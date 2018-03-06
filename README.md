@@ -1,3 +1,8 @@
+# React App Project Manager
+![react1](https://user-images.githubusercontent.com/30567608/37058090-a57ec64e-2189-11e8-9fac-e8f80d48752f.gif)
+
+Based on the video by [Traversy Media](https://www.youtube.com/watch?v=A71aqufiNtQ&t=458s "see the full tutorial and make your own")
+<hr>
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
